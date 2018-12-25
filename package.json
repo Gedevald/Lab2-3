@@ -1,0 +1,22 @@
+{
+  "name": "js-training",
+  "version": "0.9.1",
+  "description": "JS training tasks",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "test-debug": "./node_modules/.bin/mocha --debug-brk"
+  },
+  "author": "aorgish",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rolling-scopes-school/js-assignments.git"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
